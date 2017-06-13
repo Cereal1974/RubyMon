@@ -1,6 +1,6 @@
 ## IMPORTANT RubyMon is currently in Pre-alpha stage.
 
-<# RubyMon
+# RubyMon
 <hr />
 RubyMon automatically reruns your ruby file when changes are made. Simply switch to your working directory and type 'rubymon' into the command line. To explicitly listen to a single file use: 'rubymon file'.
 <hr />
