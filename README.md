@@ -7,7 +7,7 @@ rubymon
 ```
 into the command line. To **pay attention** to a single file in your directory use : 
 ```ruby
-rubymon file
+rubymon file #Shortcut: rubymon f
 ```
 :exclamation:Important: Don't ever replace "file" in your command line with the actual file name you wan't to keep an eye on. You are asked to enter the filename in the next steps.
 ## Features
