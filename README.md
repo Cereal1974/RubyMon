@@ -18,10 +18,12 @@ To run RubyMon, switch to your working directory and type
 rubymon
 ```
 into your command line. Whoola. It SHOULD work.
-<br /><br />To <b>explicitly</b> listen to a single file in your directory use 
+
+
+To **explicitly** listen to a single file in your directory use 
 ```ruby
 rubymon file
 ```
 and then follow the steps.
 ##Author
-<b>RubyMon</b>
+***RubyMon**
