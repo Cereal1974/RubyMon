@@ -1,7 +1,7 @@
 :exclamation: RubyMon is currently in Pre-alpha stage.
 
 # RubyMon
-RubyMon automatically restarts your ruby apllication when changes are made. Simply switch to your working directory and type 
+RubyMon automatically restarts your ruby aplication when changes are made. Simply switch to your working directory and type 
 ```ruby
 rubymon
 ```
