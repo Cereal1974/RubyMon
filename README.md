@@ -1,9 +1,10 @@
 :exclamation: RubyMon is currently in Pre-alpha stage.
 
 # RubyMon
-RubyMon automatically restarts your ruby file when changes are made. Simply switch to your working directory and type 'rubymon' into the command line. To explicitly listen to a single file use: 'rubymon file'.
+RubyMon automatically restarts your ruby apllication when changes are made. Simply switch to your working directory and type 'rubymon' into the command line. To **pay attention** to a single file in your directory use : 'rubymon file'.
 ## Features
 * You don't have to exit your running ruby file manually. After saving your modified file, RubyMon will automatically run the modified ruby file without You having to take care of it. (very useful for bots)
+* RubyMon doesn't require changes to your files, methods or classes.
 ## Installation
 You can simply install - and run - RubyMon using the command line (for example: Windows PowerShell).
 ```ruby
@@ -20,7 +21,7 @@ rubymon
 into your command line. Whoola. It SHOULD work.
 
 
-To **keep an eye** on a single file in your directory use 
+To **pay attention** to a single file in your directory use 
 ```ruby
 rubymon file
 ```
