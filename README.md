@@ -20,7 +20,7 @@ rubymon
 into your command line. Whoola. It SHOULD work.
 
 
-To **explicitly** listen to a single file in your directory use 
+To **keep an eye** on a single file in your directory use 
 ```ruby
 rubymon file
 ```
