@@ -35,4 +35,4 @@ rubymon file #Shortcut: rubymon f
 ```
 and then follow the steps.
 ## Author
-***RubyMon**
+**RubyMon**
