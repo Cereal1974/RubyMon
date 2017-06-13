@@ -31,8 +31,8 @@ into your command line. Whoola. It SHOULD work.
 
 To **pay attention** to a single file in your directory use 
 ```ruby
-rubymon file
+rubymon file #Shortcut: rubymon f
 ```
 and then follow the steps.
-##Author
+## Author
 ***RubyMon**
