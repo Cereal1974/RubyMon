@@ -9,7 +9,7 @@ into the command line. To **pay attention** to a single file in your directory u
 ```ruby
 rubymon file #Shortcut: rubymon f
 ```
-:exclamation:Important: Don't ever replace "file" in your command line with the actual filename you wan't to keep an eye on. You are asked to enter the filename in the next steps.
+:exclamation:Important: Don't ever replace "file" in your command line with the actual name of the file you wan't to keep an eye on. You are asked to enter the filename in the next steps.
 ## Features
 * You don't have to exit your running ruby file manually. After saving your modified file, RubyMon will automatically run the modified ruby file without You having to take care of it. (very useful for bots)
 * RubyMon doesn't require changes to your files, methods or classes.
